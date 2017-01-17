@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/seekbar_thumb_loading1" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading2" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading3" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading4" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading5" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading6" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading7" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading8" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading9" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading10" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading11" android:duration="100" />
+    <item android:drawable="@mipmap/seekbar_thumb_loading12" android:duration="100" />
+</animation-list>
